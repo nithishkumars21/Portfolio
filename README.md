@@ -1,4 +1,4 @@
-# CodeAlpha_Personal_Portfolio
+#Personal_Portfolio
 🚀 Nithish's Personal Portfolio
 Welcome to my Personal Portfolio! This website showcases my expertise as a frontend developer with a strong focus on Matlab, Figma, and Photoshop. It features a clean, modern design with GSAP animations that trigger on scroll, ensuring a smooth and engaging user experience.
 
