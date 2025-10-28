@@ -27,7 +27,7 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/nithishkumars21/CodSoft_Personal_Portfolio.git
+git clone https://github.com/nithishkumars21/Personal_Portfolio.git
 cd CodSoft_Personal_Portfolio
 Run Locally
 Simply open the index.html file in your browser or deploy it using a local server.
